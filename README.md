@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/rahil-khan-06a653297/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:rahil786fbdkhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
