@@ -53,13 +53,11 @@ Telegram bot that summarizes YouTube videos and answers follow-up questions abou
 
 ### 🛠️ Skills
 
-**Languages:** Python · TypeScript · JavaScript
+**Languages:** Python · C++ · C · Java 
 
 **Data Science / ML:** Scikit-learn · NLTK · Pandas · NumPy · Power BI
 
 **AI Engineering:** LangGraph.js · Multi-LLM Routing (Gemini, GPT-4o, Claude, Mistral) · Prompt Engineering
-
-**Web/Frameworks:** Next.js · Node.js
 
 **Tools:** Git · SQLite · Excel
 
