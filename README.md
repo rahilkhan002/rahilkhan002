@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/rahil-khan-06a653297/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rahil786fbdkhan@gmail.com">
+  <a href="mailto:rahil786fbdkhan.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -48,11 +48,3 @@ Telegram bot that summarizes YouTube videos and answers follow-up questions abou
 - Intro to Generative AI — FutureSkills PRIME
 - ChatGPT-4 Prompt Engineering — Infosys
 - NPTEL Privacy & Security
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahilkhan002&show_icons=true&theme=default" />
-</p>
